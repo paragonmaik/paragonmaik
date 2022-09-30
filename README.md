@@ -12,7 +12,7 @@ Call me Maik. Some time ago — never mind how long precisely —, I became a We
 
 ##
 
-### Connect
+### Connect with me
 <div>
   <a href="mailto:estevan.maik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   target="blank_"><a/>
   <a href="https://www.linkedin.com/in/maik-estevan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank_"><a/>
